@@ -1,0 +1,30 @@
+_repo: Horace_25563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tuckwell, William
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '276'
+    url: http://www.gutenberg.org/2009/agents/276
+description: ''
+gutenberg_issued: '2008-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Augustus, 30 B.C.-14 A.D. -- Biography'
+- !lcc 'PA'
+- !lcsh 'Poets, Latin -- Biography'
+- !lcsh 'Horace'
+- !lcsh 'Rome -- Intellectual life'
+- !lcc 'DE'
+title: Horace
+url: http://www.gutenberg.org/ebooks/25563
